@@ -22,4 +22,4 @@ gems: [jekyll-paginate]
 
 paginate: 10
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
