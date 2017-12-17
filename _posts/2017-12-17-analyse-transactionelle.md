@@ -32,11 +32,11 @@ Etude des concepts et solutions de « Machine Learning ». Choix d'une solution 
 
 
 ## Education
-__2009-2014__	             INSA de Lyon, Département Informatique (IT)
-__2013-2014__	             Echange ERASMUS SUP’: Technical University of Denmark (DTU)
+__2009-2014__              INSA de Lyon, Département Informatique (IT)
+__2013-2014__              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
 ## PRIX ET DISTINCTIONS
-__2016__		               Cloudera Community Champions
+__2016__                   Cloudera Community Champions
 
 ## INFORMATIONS PERSONNELLES
 - __Nationalité:__         Roumaine
