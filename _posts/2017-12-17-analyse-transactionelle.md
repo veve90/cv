@@ -8,27 +8,27 @@ categories: CV
 Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ingénieure responsable et déterminée avec une expérience de trois ans en tant que Consultant Big Data. 
 
 
-> DOMAINES D'EXPERTISE
-__Ecosystème hadoop (Distribution Cloudera)__: 
+## DOMAINES D'EXPERTISE
+> Ecosystème hadoop (Distribution Cloudera): 
 
 HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
 
-__Analyse des logs__: 
+> Analyse des logs: 
 
 ELK (Elasticsearch Logstash Kibana)
 
-__Analyse Ad-hoc__: 
+> Analyse Ad-hoc: 
 
 Tableau, Dataiku
 
-__Autre__: 
+> Autre: 
 
 Jenkins, Ansible
 
 
-> EXPERIENCE PROFESSIONNELLE
+## EXPERIENCE PROFESSIONNELLE
 
-__2014 - Present :__ CAPGEMINI – Consultant Big Data chez le Groupe SEB__
+> 2014 - Present : CAPGEMINI – Consultant Big Data chez le Groupe SEB
 
 Mise en place du cluster (AWS )
 -	 Administration du cluster (Cloudera Manager)
@@ -37,38 +37,31 @@ Mise en place du cluster (AWS )
 -	 Réalisation des demandes ponctuelles
 -	 Participation aux choix des solutions à mettre en place
 
-__5 mois 2014:__ CAPGEMINI – Data Science
+> 5 mois 2014: CAPGEMINI – Data Science
 
 Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
 
-> Education
-__2009-2014__              INSA de Lyon, Département Informatique (IT)
+##  Education
+> 2009-2014              INSA de Lyon, Département Informatique (IT)
+> 2013-2014              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
-__2013-2014__              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
+## PRIX ET DISTINCTIONS
+> 2016                   Cloudera Community Champions
 
-> PRIX ET DISTINCTIONS
-__2016__                   Cloudera Community Champions
-
-> INFORMATIONS PERSONNELLES
-__Nationalité:__         Roumaine
-
-__Permis B__
+## INFORMATIONS PERSONNELLES
+> Nationalité:         Roumaine
+> Permis B
 
 # Langues
-__Francais__:            bilingue
-
-__Anglais__:             courant - TOEIC 950/990
-
-__Roumain__:             langue maternelle
+> Francais:            bilingue
+> Anglais:             courant - TOEIC 950/990
+> Roumain:             langue maternelle
 
 # Expérience bénévole
-__Mai 2016 Speaker__:    Human Talk on ELK (Elasticsearch Logstash Kibana)
-
-__Juin 2016 Mentor__:    Django Girls Lyon
-
-Membre de l’association Duchess Lyon
-
-Co-créateur de l’association CodeClub Lyon
+> Mai 2016 Speaker:    Human Talk on ELK (Elasticsearch Logstash Kibana)
+> Juin 2016 Mentor:    Django Girls Lyon
+> Membre de l’association Duchess Lyon
+> Co-créateur de l’association CodeClub Lyon
 
 
