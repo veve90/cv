@@ -7,6 +7,7 @@ categories: CV
 
 Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ingénieure responsable et déterminée avec une expérience de trois ans en tant que Consultant Big Data. 
 
+
 ## DOMAINES D'EXPERTISE
 - __Ecosystème hadoop (Distribution Cloudera)__: HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
 - __Analyse des logs__: ELK (Elasticsearch Logstash Kibana)
@@ -38,8 +39,8 @@ __2013-2014__	             Echange ERASMUS SUP’: Technical University of Denma
 __2016__		               Cloudera Community Champions
 
 ## INFORMATIONS PERSONNELLES
-__Nationalité:__           Roumaine
-__Permis B__
+- __Nationalité:__         Roumaine
+- __Permis B__
 
 # Langues
 -	__Francais__             bilingue
@@ -51,3 +52,5 @@ __Permis B__
 -	__Juin 2016 Mentor__:    Django Girls Lyon
 -	Membre de l’association Duchess Lyon
 -	Co-créateur de l’association CodeClub Lyon
+
+
