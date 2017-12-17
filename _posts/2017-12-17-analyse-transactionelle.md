@@ -45,6 +45,7 @@ Etude des concepts et solutions de « Machine Learning ». Choix d'une solution 
 
 ##  Education
 > 2009-2014              INSA de Lyon, Département Informatique (IT)
+
 > 2013-2014              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
 ## PRIX ET DISTINCTIONS
@@ -52,17 +53,23 @@ Etude des concepts et solutions de « Machine Learning ». Choix d'une solution 
 
 ## INFORMATIONS PERSONNELLES
 > Nationalité:         Roumaine
+
 > Permis B
 
 # Langues
 > Francais:            bilingue
+
 > Anglais:             courant - TOEIC 950/990
+
 > Roumain:             langue maternelle
 
 # Expérience bénévole
 > Mai 2016 Speaker:    Human Talk on ELK (Elasticsearch Logstash Kibana)
+
 > Juin 2016 Mentor:    Django Girls Lyon
+
 > Membre de l’association Duchess Lyon
+
 > Co-créateur de l’association CodeClub Lyon
 
 
