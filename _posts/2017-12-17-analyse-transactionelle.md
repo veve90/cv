@@ -12,35 +12,36 @@ Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ing�
 
 > Ecosystème hadoop (Distribution Cloudera): 
 
-HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
+    HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
 
 > Analyse des logs: 
 
-ELK (Elasticsearch Logstash Kibana)
+    ELK (Elasticsearch Logstash Kibana)
 
 > Analyse Ad-hoc: 
 
-Tableau, Dataiku
+    Tableau, Dataiku
 
 > Autre: 
 
-Jenkins, Ansible
+    Jenkins, Ansible
+
 
 
 ## EXPERIENCE PROFESSIONNELLE
 
 > 2014 - Present : CAPGEMINI – Consultant Big Data chez le Groupe SEB
 
-Mise en place du cluster (AWS )
--	 Administration du cluster (Cloudera Manager)
--	 Collecte, sauvgarde et traitement des données 
--	 Exposition des données dans un système tiers : QlikView, Dataiku
--	 Réalisation des demandes ponctuelles
--	 Participation aux choix des solutions à mettre en place
+    Mise en place du cluster (AWS )
+    -	 Administration du cluster (Cloudera Manager)
+    -	 Collecte, sauvgarde et traitement des données 
+    -	 Exposition des données dans un système tiers : QlikView, Dataiku
+    -	 Réalisation des demandes ponctuelles
+    -	 Participation aux choix des solutions à mettre en place
 
 > 5 mois 2014: CAPGEMINI – Data Science
 
-Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
+    Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
 
 ##  Education
