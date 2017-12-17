@@ -9,10 +9,13 @@ Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ing�
 
 
 ## DOMAINES D'EXPERTISE
-- __Ecosystème hadoop (Distribution Cloudera)__: HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
-- __Analyse des logs__: ELK (Elasticsearch Logstash Kibana)
-- __Analyse Ad-hoc__: Tableau, Dataiku
-- __Autre__: Jenkins, Ansible
+__Ecosystème hadoop (Distribution Cloudera)__: HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
+
+__Analyse des logs__: ELK (Elasticsearch Logstash Kibana)
+
+__Analyse Ad-hoc__: Tableau, Dataiku
+
+__Autre__: Jenkins, Ansible
 
 
 ## EXPERIENCE PROFESSIONNELLE
