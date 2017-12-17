@@ -27,8 +27,6 @@ Mise en place du cluster (AWS )
 # 5 mois 2014: CAPGEMINI – Data Science
 Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
-# 4 mois 2013: ATOS WORLDLINE -  Développeur Android
-# 3 mois 2012:	KREACTIVE TECHNOLOGIES – Développeur iOS
 
 ## Education
 2009-2014	INSA de Lyon, Département Informatique (IT)
