@@ -43,9 +43,9 @@ __2016__		               Cloudera Community Champions
 - __Permis B__
 
 # Langues
--	__Francais__             bilingue
--	__Anglais__              courant - TOEIC 950/990
--	__Roumain__              langue maternelle
+-	__Francais__:            bilingue
+-	__Anglais__:             courant - TOEIC 950/990
+-	__Roumain__:             langue maternelle
 
 # Expérience bénévole
 - __Mai 2016 Speaker__:    Human Talk on ELK (Elasticsearch Logstash Kibana)
