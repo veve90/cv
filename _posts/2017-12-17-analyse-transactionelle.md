@@ -33,24 +33,31 @@ Etude des concepts et solutions de « Machine Learning ». Choix d'une solution 
 
 ## Education
 __2009-2014__              INSA de Lyon, Département Informatique (IT)
+
 __2013-2014__              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
 ## PRIX ET DISTINCTIONS
 __2016__                   Cloudera Community Champions
 
 ## INFORMATIONS PERSONNELLES
-- __Nationalité:__         Roumaine
-- __Permis B__
+__Nationalité:__         Roumaine
+
+__Permis B__
 
 # Langues
--	__Francais__:            bilingue
--	__Anglais__:             courant - TOEIC 950/990
--	__Roumain__:             langue maternelle
+__Francais__:            bilingue
+
+__Anglais__:             courant - TOEIC 950/990
+
+__Roumain__:             langue maternelle
 
 # Expérience bénévole
-- __Mai 2016 Speaker__:    Human Talk on ELK (Elasticsearch Logstash Kibana)
--	__Juin 2016 Mentor__:    Django Girls Lyon
--	Membre de l’association Duchess Lyon
--	Co-créateur de l’association CodeClub Lyon
+__Mai 2016 Speaker__:    Human Talk on ELK (Elasticsearch Logstash Kibana)
+
+__Juin 2016 Mentor__:    Django Girls Lyon
+
+Membre de l’association Duchess Lyon
+
+Co-créateur de l’association CodeClub Lyon
 
 
