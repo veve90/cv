@@ -16,7 +16,7 @@ Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ing�
 
 ## EXPERIENCE PROFESSIONNELLE
 
-# 2014 - Present : CAPGEMINI – Consultant Big Data chez le Groupe SEB
+__2014 - Present : CAPGEMINI – Consultant Big Data chez le Groupe SEB__
 Mise en place du cluster (AWS )
 -	 Administration du cluster (Cloudera Manager)
 -	 Collecte, sauvgarde et traitement des données 
@@ -24,7 +24,7 @@ Mise en place du cluster (AWS )
 -	 Réalisation des demandes ponctuelles
 -	 Participation aux choix des solutions à mettre en place
 
-# 5 mois 2014: CAPGEMINI – Data Science
+__5 mois 2014: CAPGEMINI – Data Science__
 Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
 
