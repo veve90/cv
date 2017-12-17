@@ -8,7 +8,7 @@ categories: CV
 Etant diplômé de l’INSA de Lyon, département Informatique, je suis une ingénieure responsable et déterminée avec une expérience de trois ans en tant que Consultant Big Data. 
 
 
-## DOMAINES D'EXPERTISE
+> DOMAINES D'EXPERTISE
 __Ecosystème hadoop (Distribution Cloudera)__: 
 
 HDFS, Flume, Hive, Impala, Pig, Spark (scala), Hbase, Oozie, Cloudera Manager
@@ -26,7 +26,7 @@ __Autre__:
 Jenkins, Ansible
 
 
-## EXPERIENCE PROFESSIONNELLE
+> EXPERIENCE PROFESSIONNELLE
 
 __2014 - Present :__ CAPGEMINI – Consultant Big Data chez le Groupe SEB__
 
@@ -42,15 +42,15 @@ __5 mois 2014:__ CAPGEMINI – Data Science
 Etude des concepts et solutions de « Machine Learning ». Choix d'une solution technique et mise en place d’un POC « moteur de recommandation »
 
 
-## Education
+> Education
 __2009-2014__              INSA de Lyon, Département Informatique (IT)
 
 __2013-2014__              Echange ERASMUS SUP’: Technical University of Denmark (DTU)
 
-## PRIX ET DISTINCTIONS
+> PRIX ET DISTINCTIONS
 __2016__                   Cloudera Community Champions
 
-## INFORMATIONS PERSONNELLES
+> INFORMATIONS PERSONNELLES
 __Nationalité:__         Roumaine
 
 __Permis B__
