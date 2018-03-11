@@ -23,3 +23,6 @@ gems: [jekyll-paginate]
 paginate: 10
 
 theme: jekyll-theme-merlot
+
+plugins:
+  - jekyll-sitemap
